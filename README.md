@@ -2,13 +2,13 @@
 
 <div>
   
-  <img  width="360em" height="180em" src="https://github-readme-stats.vercel.app/api?username=kauannlima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="360em" align="right" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannlima&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauannlima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannlima&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center"t="250" alt="coding-time" src="code.gif">
+    <img align="left"height="250em"alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
