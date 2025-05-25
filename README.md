@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu Github!!
 
-Atualmente, cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas, com 21 anos de idade. Destaco-me por contribuições significativas em projetos destacados no meu portfólio. Estou constantemente atualizando e ampliando meu conhecimento em novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
+Atualmente, cursando o quinto e último semestre de Análise e Desenvolvimento de Sistemas, com 21 anos de idade. Destaco-me por contribuições significativas em projetos destacados no meu portfólio. Estou constantemente atualizando e ampliando meu conhecimento em novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-de-almeida-lima/)](https://www.linkedin.com/in/kauan-de-almeida-lima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanalmeidalima1405@gmail.com)](mailto:kauanalmeidalima1405@gmail.com)
