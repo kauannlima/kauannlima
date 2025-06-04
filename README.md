@@ -21,18 +21,20 @@ Atualmente, cursando o quinto e último semestre de Análise e Desenvolvimento d
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 <!--
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 -->
 
-<!-- 
+
 ### IDEs Utilizadas
 ![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat-square&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
--->
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=kauannlima&show_icons=true&theme=blueberry&line_height=27&hide=contribs">
