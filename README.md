@@ -36,13 +36,6 @@ Atualmente, cursando o quinto e último semestre de Análise e Desenvolvimento d
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauannlima&show_icons=true&theme=blueberry&line_height=27&hide=contribs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannlima&theme=blueberry">
-</div>
-
-
-
 
 
 
