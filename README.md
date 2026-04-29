@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu Github!!
 
-Atualmente, cursando o quinto e último semestre de Análise e Desenvolvimento de Sistemas, com 21 anos de idade. Destaco-me por contribuições significativas em projetos destacados no meu portfólio. Estou constantemente atualizando e ampliando meu conhecimento em novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
+Formado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações escaláveis e bem estruturadas. Tenho experiência prática em projetos reais, com contribuições relevantes presentes nos repositórios do meu portfólio, utilizando tecnologias como Node.js, Go, React e Java com Spring Boot. Busco evoluir constantemente em arquitetura de software, boas práticas de desenvolvimento e construção de sistemas eficientes
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-de-almeida-lima/)](https://www.linkedin.com/in/kauan-de-almeida-lima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanalmeidalima1405@gmail.com)](mailto:kauanalmeidalima1405@gmail.com)
