@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu Github!!
 
-Desenvolvedor Full Stack com atuação em arquitetura e desenvolvimento de sistemas corporativos, utilizando Java, Spring Boot, Go, Node.js, React e Docker. Experiência na construção de APIs REST, microsserviços, integrações com sistemas externos e soluções orientadas a eventos utilizando Kafka e RabbitMQ. Atuação na definição de domínios, modelagem de entidades, controle de acesso, auditoria e evolução de plataformas internas. Aplicação de SOLID, Clean Code, Clean Architecture e Arquitetura Hexagonal na construção de soluções escaláveis. Perfil analítico, colaborativo e orientado à construção de soluções escaláveis e de alto impacto
+Desenvolvedor Full Stack com foco em arquitetura e desenvolvimento de sistemas corporativos. Atuo com Java, Spring Boot, Go, Node.js, React e Docker na construção de APIs REST, microsserviços, integrações e soluções orientadas a eventos utilizando Kafka e RabbitMQ. Tenho interesse em arquitetura de software, Clean Architecture, Arquitetura Hexagonal, boas práticas de desenvolvimento e construção de sistemas escaláveis.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-de-almeida-lima/)](https://www.linkedin.com/in/kauannlima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanalmeidalima1405@gmail.com)](mailto:kauanalmeidalima1405@gmail.com)
