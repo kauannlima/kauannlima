@@ -1,41 +1,27 @@
 ## Seja bem vindo ao meu Github!!
 
-Formado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações escaláveis e bem estruturadas. Tenho experiência prática em projetos reais, com contribuições relevantes presentes nos repositórios do meu portfólio, utilizando tecnologias como Node.js, Go, React e Java com Spring Boot. Busco evoluir constantemente em arquitetura de software, boas práticas de desenvolvimento e construção de sistemas eficientes
+Desenvolvedor Full Stack com atuação em arquitetura e desenvolvimento de sistemas corporativos, utilizando Java, Spring Boot, Go, Node.js, React e Docker. Experiência na construção de APIs REST, microsserviços, integrações com sistemas externos e soluções orientadas a eventos utilizando Kafka e RabbitMQ. Atuação na definição de domínios, modelagem de entidades, controle de acesso, auditoria e evolução de plataformas internas. Aplicação de SOLID, Clean Code, Clean Architecture e Arquitetura Hexagonal na construção de soluções escaláveis. Perfil analítico, colaborativo e orientado à construção de soluções escaláveis e de alto impacto
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-de-almeida-lima/)](https://www.linkedin.com/in/kauan-a-lima/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-de-almeida-lima/)](https://www.linkedin.com/in/kauannlima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanalmeidalima1405@gmail.com)](mailto:kauanalmeidalima1405@gmail.com)
 
-## 🚀💻 Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Apache Struts 2](https://img.shields.io/badge/Apache%20Struts%202-%230074CC.svg?style=flat-square&logo=apachestruts2&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-%23874747.svg?style=flat-square&logo=junit5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-<!--
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)
--->
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 
+![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 
-### IDEs Utilizadas
-![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat-square&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
-
-
-
-
-
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=flat-square&logo=junit5&logoColor=white)
